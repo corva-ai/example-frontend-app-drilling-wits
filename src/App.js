@@ -40,7 +40,7 @@ function App(props) {
           ))}
         </Select>
 
-        {/*Show loading indicator while data is loading*/}
+        {/* Show loading indicator while data is loading */}
         {loading && <LoadingIndicator />}
         {!loading && (
           <WITSSummaryChart data={witsSummaryData} coordinates={coordinates} dataset={dataset} />
