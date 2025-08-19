@@ -33,7 +33,7 @@ AppSettings.propTypes = {
   company: PropTypes.shape({}),
   onSettingChange: PropTypes.func.isRequired,
   settings: PropTypes.shape({
-    isExampleCheckboxChecked: PropTypes.bool
+    isExampleCheckboxChecked: PropTypes.bool,
   }).isRequired,
   user: PropTypes.shape({}),
 };

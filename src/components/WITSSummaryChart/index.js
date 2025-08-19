@@ -3,6 +3,7 @@ import Highcharts from 'highcharts';
 import HighchartsReact from 'highcharts-react-official';
 
 import { getHighchartsOptions } from './options';
+
 import styles from './styles.css';
 
 function WITSSummaryChart({ data, dataset, coordinates }) {
