@@ -37,7 +37,7 @@
     "react-dom": "17.0.1"
   },
   "devDependencies": {
-    "@corva/dc-platform-shared": "latest",
+    "@corva/dc-platform-shared": "0.63.0",
     "@corva/eslint-config-browser": "latest",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.1.5",
