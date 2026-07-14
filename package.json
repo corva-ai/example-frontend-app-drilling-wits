@@ -98,5 +98,8 @@
   },
   "lint-staged": {
     "src/**/*.{js,jsx,ts,tsx}": "eslint --fix"
+  },
+  "resolutions": {
+    "lodash": "4.18.1"
   }
 }
